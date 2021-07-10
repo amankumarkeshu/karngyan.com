@@ -1,12 +1,11 @@
 ---
-id: 2
-title: covidhelp.page
-description: it helped match plasma and blood donors, i18n supported with 5 indian languages. also had a vaccine notifier built in
-tech: golang vue aws
+id: 3
+title: Social Networking App
+description: A webapp where you can add photos,add blogs and view posts added by other users. A place where you can network with people, find your friends, chat with friends and even see the location of your friends 
+tech: NodeJs, AWS, MongoDB, GoogleMapAPI .
 logo: /images/covidhelp-page.png
-website: https://covidhelp.page
-github: https://github.com/karngyan/covidhelp.ui
-twitter: gyankarn
+github: https://github.com/amankumarkeshu/Social-Networking-App
+twitter: amankumarkeshu3
 ---
 
 # Creten se ad guttur aquis oracula cineres
