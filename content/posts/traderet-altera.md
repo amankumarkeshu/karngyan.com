@@ -11,8 +11,8 @@ tags:
   - ipsum
 category: interview
 author:
-  name: karn
-  twitter: gyankarn
+  name: Aman 
+  twitter: amankumarkeshu3
   image: /images/bigheadkarngyan.png
 ---
 
